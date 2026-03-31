@@ -84,6 +84,6 @@ Access the interface by navigating to `http://127.0.0.1:5000` in any modern web 
 
 ## Developer Information
 * **NAME :** Ardra Suresh
-* **REGISTRATION NUMBER+ :** 25BHI10062
+* **REGISTRATION NUMBER :** 25BHI10062
 * **BRANCH :** B.Tech. CSE (Health Informatics)
 * **COURSE :** CSA2001 Fundamentals of AI and ML
